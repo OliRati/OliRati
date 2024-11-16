@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OliRati
+- 👋 Hi, I’m OliRati
 - 👀 I’m interested in computer science and developpement
 - 🌱 I’m currently learning web developpement
 
