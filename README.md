@@ -15,7 +15,7 @@
 [![CPP](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://shields.io/)
 [![C](https://img.shields.io/badge/-c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://shields.io/)
 
-## Systemes
+## Systems
 
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://shields.io/)
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/)
