@@ -4,7 +4,7 @@
 - 👀 I’m interested in computer science and developpement
 - 🌱 I’m currently learning web developpement
 
-## Language
+## Computer languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -12,6 +12,8 @@
 ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=Python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![CPP](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-c-00599C?logo=c&logoColor=white&style=for-the-badge)
 
 <!--
 OliRati/OliRati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
