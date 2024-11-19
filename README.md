@@ -16,16 +16,18 @@
 [![HTMX](https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=Python&logoColor=blue)](#)
 
-### Others
+### Compiled
 [![CPP](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![C](https://img.shields.io/badge/-c-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
+
+### Scripting
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](#)
 
 ## Systems
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![GNU](https://img.shields.io/badge/Gnu-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)](#)
 [![Slackware](https://img.shields.io/badge/Slackware-000000?style=for-the-badge&logo=slackware&logoColor=fff)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=slackware&logoColor=fff)](#)  
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)](#)  
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 <!--
