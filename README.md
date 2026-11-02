@@ -1,13 +1,14 @@
 # About me
 
 - 👋 Hello I’m OliRati
-- 👀 I’m interested in computer science and developpement
-- 🌱 I’m currently learning web developpement
+- 👀 I’m found of computer science and development
+- 🌱 I’m a Full-Stack Web and Web Mobile developer
 - 🌐 I'm using GNU Linux since university, mainly Slackware and Debian family distributions
+- 💬 Ask me about you're projects. I'll be happy to help you.
 
 ## Computer languages
 
-### Web developpement
+### Web development
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -29,21 +30,3 @@
 [![Slackware](https://img.shields.io/badge/Slackware-000000?style=for-the-badge&logo=slackware&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)](#)  
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-
-<!--
-OliRati/OliRati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-[![GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://shields.io/)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
